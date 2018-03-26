@@ -1,4 +1,9 @@
 # Git course
-gata com pulga
-olho verde e olho azul
-manhosa, sapeka e charmosa
+
+
+x = 10;
+
+if (x==10)
+x = x / 2;
+print(x);
+
